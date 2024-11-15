@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Luke Hsu and I'm a software developer/DevOps engineer. I'm from Taiwan, living in New York, and currently studying at Columbia University. 
+My name is Luke Hsu and I'm <undefined> engineer. I'm from Taiwan, living in Taipei, and recently graduated from Columbia University. 
 
 Check out some of my works below:
+
+## ChatEMG: Synthetic Data Generation to Control a Robotic Hand Orthosis for Stroke
 [![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
+## AskBobby: 
 
 <!--
 ## 🔧 Technologies & Tools
