@@ -25,10 +25,10 @@ Check out some of my works below:
 ## ChatEMG: Synthetic Data Generation to Control a Robotic Hand Orthosis for Stroke
 [![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
-## AskBobby: 
-[![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
+## AskBobby: Social Service AI SMS Agent 
+[![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/AskBobby_github_image.png)](https://www.youtube.com/watch?v=wNDq_BOnTQ8)
 
-Website here:
+Website here:<a href="https://askbobby.org/"></a>
 <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
