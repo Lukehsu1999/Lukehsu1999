@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 My name is Luke Hsu and I'm a software developer/DevOps engineer. I'm from Taiwan, living in New York, and currently studying at Columbia University. 
 
 Check out some of my works below:
-[![Video Title](thumbnail-image-url)](https://www.youtube.com/watch?v=ozLbAGEkCug)
+[![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
 
 <!--
