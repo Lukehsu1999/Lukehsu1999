@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Luke Hsu and I'm <undefined> engineer. I'm from Taiwan, living in Taipei, and recently graduated from Columbia University. 
+My name is Luke Hsu and I'm _undefined_ engineer. I'm from Taiwan, living in Taipei, and recently graduated from Columbia University. 
 
 Check out some of my works below:
 
@@ -28,7 +28,7 @@ Check out some of my works below:
 ## AskBobby: Social Service AI SMS Agent 
 [![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/AskBobby_github_image.png)](https://www.youtube.com/watch?v=wNDq_BOnTQ8)
 
-Website here:<a href="https://askbobby.org/"></a>
+[Website](https://askbobby.org/)
 <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
