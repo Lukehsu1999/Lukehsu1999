@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Luke Hsu and I'm _undefined_ engineer. I'm from Taiwan, living in Taipei, and recently graduated from Columbia University. 
+My name is Luke Hsu and I'm from Taiwan, living in Taipei, and recently graduated from Columbia University. 
 
 Check out some of my works below:
 
