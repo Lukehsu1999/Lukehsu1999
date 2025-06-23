@@ -28,7 +28,6 @@ Check out some of my works below:
 ## AskBobby: Social Service AI SMS Agent 
 [![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/AskBobby_github_image.png)](https://www.youtube.com/watch?v=wNDq_BOnTQ8)
 
-[Website](https://askbobby.org/)
 <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
