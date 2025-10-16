@@ -24,8 +24,8 @@ Check out some of my works below:
 
 ## MICCAI BraTS GoAT Challenge 1st Solution
 <p align="center">
-  <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" />
-  <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_BraTS_Trophy.png" width="45%" />
+  <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" valign="middle"/>
+  <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_BraTS_Trophy.png" width="45%" valign="middle"/>
 </p>
 
 ## ChatEMG: Synthetic Data Generation to Control a Robotic Hand Orthosis for Stroke
