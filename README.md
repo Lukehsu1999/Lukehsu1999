@@ -22,6 +22,12 @@ My name is Luke Hsu and I'm from Taiwan, living in Taipei, and recently graduate
 
 Check out some of my works below:
 
+## MICCAI BraTS GoAT Challenge 1st Solution
+<p float="left">
+  <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" />
+  <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/HighRes_BraTS_Trophy.jpeg" width="45%" />
+</p>
+
 ## ChatEMG: Synthetic Data Generation to Control a Robotic Hand Orthosis for Stroke
 [![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
