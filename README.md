@@ -22,13 +22,16 @@ My name is Luke Hsu and I'm from Taiwan, living in Taipei, and recently graduate
 
 Check out some of my works below:
 
-## MICCAI BraTS GoAT Challenge 1st Solution
+## MICCAI BraTS GoAT Challenge 1st Solution (MICCAI, 2025)
 <p align="center">
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" valign="middle"/>
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_BraTS_Trophy.png" width="45%" valign="middle"/>
 </p>
 
 ## ChatEMG: Synthetic Data Generation to Control a Robotic Hand Orthosis for Stroke
+**Published in [IEEE Robotics and Automation Letters (RA-L), 2024](https://arxiv.org/pdf/2406.12123)**  
+🔗 [**Paper**](https://arxiv.org/pdf/2406.12123) </br>
+💻 [**Codebase (Official Implementation)**](https://github.com/jingxixu/chatemg)
 [![Video Title](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
 ## AskBobby: Social Service AI SMS Agent 
