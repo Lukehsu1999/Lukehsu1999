@@ -22,7 +22,16 @@ My name is Luke Hsu and I'm from Taiwan, living in Taipei, and recently graduate
 
 Check out some of my works below:
 
-## MICCAI BraTS GoAT Challenge 1st Solution (MICCAI, 2025)
+## 🧠 MICCAI BraTS GoAT Challenge – 1st Place Solution (MICCAI 2025)  
+**Enhancing Brain Tumor Segmentation Generalizability via Pseudo-Labeling and Ratio-Adaptive Postprocessing**  
+*To-Liang Hsu¹⋆, Dang Khoa Nguyen¹⋆, Pai Lin¹, Ching-Ting Lin¹, Wei-Chun Wang¹⋆⋆*  
+¹ China Medical University Hospital Artificial Intelligence Center, Taichung, Taiwan  
+(⋆ Equal contribution, ⋆⋆ Corresponding author)  
+*Accepted to MICCAI 2025 (in press, Lecture Notes in Computer Science, Springer)*  
+
+📄 [**Preprint (coming soon)**]() &nbsp;|&nbsp; 💻 [**Codebase (Experiments)**](https://github.com/Lukehsu1999/BraTS2025) &nbsp;|&nbsp; 🐳 [**Docker Repository (Official Submission)**](https://github.com/Lukehsu1999/BraTS2025-Docker) &nbsp;|&nbsp; 🏆 [**Leaderboard**](https://www.synapse.org/#!Synapse:syn51156910/wiki/)
+
+
 <p align="center">
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" valign="middle"/>
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_BraTS_Trophy.png" width="45%" valign="middle"/>
