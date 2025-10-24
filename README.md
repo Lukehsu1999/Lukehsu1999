@@ -33,11 +33,12 @@
 
 ## 🦾 ChatEMG: Synthetic EMG Data for Robotic Hand Orthosis  
 **Published in [IEEE Robotics and Automation Letters (RA-L), 2024](https://arxiv.org/pdf/2406.12123)**  
-*Jingxi Xu\*, Runsheng Wang\*, Siqi Shang\*, Ava Chen, Lauren Winterbottom, To-Liang Hsu, ... , Matei Ciocarlie*  
-(\*Equal contribution)  
-Columbia University & Columbia University Irving Medical Center  
+*Jingxi Xu¹⋆, Runsheng Wang¹⋆, Siqi Shang¹⋆, Ava Chen², Lauren Winterbottom², To-Liang Hsu¹, Wenxi Chen¹, Khondoker Ahmed¹, Pedro Leandro La Rotta¹, Xinyue Zhu¹, Dawn M. Nilsen², Joel Stein², Matei Ciocarlie¹*  
+¹ Columbia University, Department of Mechanical Engineering  
+² Columbia University Irving Medical Center  
+(⋆ Equal contribution)
 
-🔗 [**Paper (arXiv)**](https://arxiv.org/pdf/2406.12123) &nbsp;|&nbsp; 💻 [**Codebase**](https://github.com/jingxixu/chatemg)
+💻 [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🔗 [**Paper (arXiv)**](https://arxiv.org/pdf/2406.12123) &nbsp;|&nbsp; 💻 [**Codebase**](https://github.com/jingxixu/chatemg)
 
 [![ChatEMG Demonstration Video](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
