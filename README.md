@@ -31,7 +31,7 @@
 
 ---
 
-## 🦾 ChatEMG: Synthetic EMG Data for Robotic Hand Orthosis  
+## 🦾 ChatEMG: Synthetic EMG Data for Robotic Hand Orthosis (IEEE RA-L 2024)
 **Published in [IEEE Robotics and Automation Letters (RA-L), 2024](https://arxiv.org/pdf/2406.12123)**  
 *Jingxi Xu¹⋆, Runsheng Wang¹⋆, Siqi Shang¹⋆, Ava Chen², Lauren Winterbottom², To-Liang Hsu¹, Wenxi Chen¹, Khondoker Ahmed¹, Pedro Leandro La Rotta¹, Xinyue Zhu¹, Dawn M. Nilsen², Joel Stein², Matei Ciocarlie¹*  
 ¹ Columbia University, Department of Mechanical Engineering  
