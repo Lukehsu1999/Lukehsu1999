@@ -6,7 +6,7 @@ I graduated from **Columbia University** 🎓, where I worked in the ROAM Lab an
 
 ---
 
-## 🧠 BraTS GoAT Challenge — *1st Place Solution* 🏆  
+## 🧠 BraTS GoAT Challenge — *1st Place Solution* 🏆  (MICCAI 2025)
 **Enhancing Brain Tumor Segmentation Generalizability via Pseudo-Labeling and Ratio-Adaptive Postprocessing**  
 *To-Liang Hsu¹⋆, Dang Khoa Nguyen¹⋆, Pai Lin¹, Ching-Ting Lin¹, Wei-Chun Wang¹⋆⋆*  
 ¹ CMUH Artificial Intelligence Center, Taichung, Taiwan  
