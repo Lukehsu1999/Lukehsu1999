@@ -7,21 +7,18 @@ I graduated from **Columbia University** 🎓, where I worked in the ROAM Lab an
 ---
 
 ## 🧠 MICCAI BraTS GoAT Challenge — *1st Place Solution* 🏆  
-<div style="border: 1px solid #ddd; padding: 15px; border-radius: 8px; background-color:#fafbfc;">
-
-This work tackled one of the hardest problems in medical imaging — **cross-tumor generalization.**  
-I co-led the development of a **multi-model ensemble pipeline** that segments brain tumors across five distinct tumor types, even without knowing the tumor category in advance.  
-Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across datasets and institutions, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
-
-</div>
-
 **Enhancing Brain Tumor Segmentation Generalizability via Pseudo-Labeling and Ratio-Adaptive Postprocessing**  
 *To-Liang Hsu¹⋆, Dang Khoa Nguyen¹⋆, Pai Lin¹, Ching-Ting Lin¹, Wei-Chun Wang¹⋆⋆*  
 ¹ CMUH Artificial Intelligence Center, Taichung, Taiwan  
 (⋆ Equal contribution, ⋆⋆ Corresponding author)  
 *Accepted to MICCAI 2025 (in press, Lecture Notes in Computer Science, Springer)*  
 
-📄 [**Preprint (coming soon)**]() &nbsp;|&nbsp; 🐳 [**Official Docker Submission**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🌐 [**BraTS 2025 Challenge Website**](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
+ [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp;📄 [**Paper (coming soon)**]() &nbsp;|&nbsp; 🐳 [**Official Docker Submission**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🌐 [**BraTS 2025 Challenge Website**](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
+
+> This work tackled one of the hardest problems in medical imaging — **cross-tumor generalization**.  
+> I led the development of a **multi-model ensemble pipeline** that segments brain tumors across five distinct tumor types, even without knowing the tumor category in advance.  
+> Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across datasets and institutions, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
+
 
 <p align="center">
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" valign="middle"/>
