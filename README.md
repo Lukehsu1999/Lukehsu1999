@@ -38,7 +38,7 @@
 ² Columbia University Irving Medical Center  
 (⋆ Equal contribution)
 
-💻 [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🔗 [**Paper (arXiv)**](https://arxiv.org/pdf/2406.12123) &nbsp;|&nbsp; 💻 [**Codebase**](https://github.com/jingxixu/chatemg)
+💻 [**Project Website**](https://jxu.ai/chatemg/) &nbsp;|&nbsp; 🔗 [**Paper (arXiv)**](https://arxiv.org/pdf/2406.12123) &nbsp;|&nbsp; 💻 [**Official Reproducible Codebase**](https://github.com/jingxixu/chatemg)
 
 [![ChatEMG Demonstration Video](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
