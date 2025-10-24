@@ -1,11 +1,21 @@
-# Hello there!
+**Luke Hsu (To-Liang Hsu)**  
+medical AI researcher / engineer  
 
-> I’m **Luke Hsu (To-Liang Hsu)** — a researcher and engineer from Taiwan 🇹🇼, passionate about **medical AI, biosignal-driven robotics, and human-centered deep learning**.  
->
-> I currently work at Taiwan's **China Medical University Hospital (CMUH) AI Center**, focusing on brain tumor segmentation, pulmonary embolism detection, and physics-informed MRI modeling.  
->
-> I graduated from **Columbia University** 🎓, where I worked in the ROAM Lab and co-authored a publication in *IEEE RA-L 2024*.
+🎓 *B.S. & M.S., Columbia University*  
+🏥 *AI Center, China Medical University Hospital (CMUH), Taichung, Taiwan*  
 
+---
+
+### 🧬 About Me  
+- 🧠 Researching **medical imaging AI** — brain tumor segmentation, pulmonary embolism detection, and physics-informed MRI simulation.  
+- 🤖 Experience in **biosignal-driven robotics** and **assistive device control**.  
+- 💡 Interested in **representation learning, interpretability, and human-centered AI**.  
+
+### 🧾 Selected Works
+| Title | Venue |
+|:------|:------|
+| **Enhancing Brain Tumor Segmentation Generalizability via Pseudo-Labeling and Ratio-Adaptive Postprocessing** | MICCAI 2025 |
+| **ChatEMG: Synthetic Data Generation for Robotic Hand Orthosis Control** | IEEE RA-L 2024 |
 ---
 
 ## 🧠 BraTS GoAT Challenge — *1st Place Solution* 🏆  (MICCAI 2025)
