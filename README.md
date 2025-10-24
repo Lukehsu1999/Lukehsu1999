@@ -15,19 +15,19 @@
 (⋆ Equal contribution, ⋆⋆ Corresponding author)  
 *Accepted to MICCAI 2025 (in press, Lecture Notes in Computer Science, Springer)*  
 
-> **Summary:**  
-> This work tackled one of the hardest problems in medical imaging — **cross-tumor generalization**.
-> 
-> I led the development of a **multi-model ensemble pipeline** that segments brain tumors across five distinct tumor types, even without knowing the tumor category in advance.  
->
-> Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across tumor types and demographics, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
-
 💻 [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp;📄 [**Paper (coming soon)**]() &nbsp;|&nbsp; 🐳 [**Official Docker Submission**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🌐 [**BraTS 2025 Challenge Website**](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
 
 <p align="center">
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" valign="middle"/>
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_BraTS_Trophy.png" width="45%" valign="middle"/>
 </p>
+
+> **Summary:**  
+> This work tackled one of the hardest problems in medical imaging — **cross-tumor generalization**.
+> 
+> I led the development of a **multi-model ensemble pipeline** that segments brain tumors across five distinct tumor types, even without knowing the tumor category in advance.  
+>
+> Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across tumor types and demographics, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
 
 ---
 
@@ -39,15 +39,15 @@ Columbia University & Columbia University Irving Medical Center
 
 🔗 [**Paper (arXiv)**](https://arxiv.org/pdf/2406.12123) &nbsp;|&nbsp; 💻 [**Codebase**](https://github.com/jingxixu/chatemg)
 
+[![ChatEMG Demonstration Video](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
+
 > **Summary:**  
-> At Columbia’s **ROAM Lab**, I contributed to **ChatEMG**, a framework that generates **synthetic electromyography (EMG)** data to train models controlling a **robotic hand orthosis for stroke rehabilitation**.  
+> At Columbia’s **ROAM Lab**, I contributed to **ChatEMG**, a framework that generates **synthetic electromyography (EMG)** data to train models controlling a **robotic hand orthosis** for stroke rehabilitation.  
 >  
-> The project demonstrated how **language-conditioned generative models** can synthesize realistic biosignals for downstream control tasks — reducing dependence on scarce patient data and opening a new direction for **human–machine co-learning** in assistive robotics.  
+> The project demonstrated how **language-conditioned generative models** can synthesize realistic biosignals for downstream control tasks — **reducing dependence on limited patient data** and enabling more **data-efficient training** of assistive robotic systems.  
 >  
 > 🤖 *Published in IEEE Robotics and Automation Letters (RA-L), 2024.*
 
-
-[![ChatEMG Demonstration Video](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
 ---
 
