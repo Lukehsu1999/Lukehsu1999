@@ -17,7 +17,7 @@ I graduated from **Columbia University** 🎓, where I worked in the ROAM Lab an
 > I led the development of a **multi-model ensemble pipeline** that segments brain tumors across five distinct tumor types, even without knowing the tumor category in advance.  
 > Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across tumor types and demographics, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
 
- [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp;📄 [**Paper (coming soon)**]() &nbsp;|&nbsp; 🐳 [**Official Docker Submission**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🌐 [**BraTS 2025 Challenge Website**](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
+💻 [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp;📄 [**Paper (coming soon)**]() &nbsp;|&nbsp; 🐳 [**Official Docker Submission**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🌐 [**BraTS 2025 Challenge Website**](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
 
 <p align="center">
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/MICCAI_Presentation.jpg" width="45%" valign="middle"/>
@@ -33,6 +33,9 @@ I graduated from **Columbia University** 🎓, where I worked in the ROAM Lab an
 Columbia University & Columbia University Irving Medical Center  
 
 🔗 [**Paper (arXiv)**](https://arxiv.org/pdf/2406.12123) &nbsp;|&nbsp; 💻 [**Codebase**](https://github.com/jingxixu/chatemg)
+
+> At Columbia’s ROAM Lab, I contributed to **ChatEMG**, a system that generates **synthetic electromyography (EMG)** data to train models controlling a **robotic hand orthosis for stroke rehabilitation**.
+> The project explored how **language-conditioned generative models** can synthesize realistic biosignals for downstream control tasks, reducing the dependence on scarce patient data and opening a new path for **human–machine co-learning** in assistive robotics. 
 
 [![ChatEMG Demonstration Video](https://github.com/Lukehsu1999/Lukehsu1999/blob/main/Screenshot%202024-11-15%20at%209.46.19%20PM.png)](https://www.youtube.com/watch?v=ozLbAGEkCug)
 
