@@ -15,7 +15,7 @@ I graduated from **Columbia University** 🎓, where I worked in the ROAM Lab an
 
 > This work tackled one of the hardest problems in medical imaging — **cross-tumor generalization**.  
 > I led the development of a **multi-model ensemble pipeline** that segments brain tumors across five distinct tumor types, even without knowing the tumor category in advance.  
-> Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across datasets and institutions, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
+> Our key innovations — **pseudo-label bootstrapping**, **ratio-adaptive postprocessing**, and **TumorSurfer multitask anatomy learning** — together improved robustness across tumor types and demographics, earning **1st place worldwide** at the *MICCAI 2025 BraTS GoAT Challenge*.
 
  [**Project Website**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp;📄 [**Paper (coming soon)**]() &nbsp;|&nbsp; 🐳 [**Official Docker Submission**](https://github.com/Lukehsu1999/BraTS-Multimodel-docker) &nbsp;|&nbsp; 🌐 [**BraTS 2025 Challenge Website**](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
 
