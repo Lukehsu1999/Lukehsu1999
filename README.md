@@ -8,7 +8,7 @@ medical AI researcher / engineer
 
 ### 🧬 About Me  
 - 🧠 Researching **medical imaging AI** — brain tumor segmentation, pulmonary embolism detection, and physics-informed MRI simulation.
-- 🔬 Currently exploring **physics-based and biologically grounded generative methods** for MRI signal simulation. 
+- 🔬 Currently exploring **physics-based and biologically grounded generative methods**. 
 - 🤖 Experience in **biosignal-driven robotics** and **assistive device control**.  
 
 ### 🧾 Selected Works
