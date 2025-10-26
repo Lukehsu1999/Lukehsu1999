@@ -17,7 +17,7 @@ medical AI researcher / engineer
 
 <p align="center">
   An MRI is not the brain itself, but a representation generated through physics, biology, and computation.  <br>
-  My current work explores how AI can understand these generative processes, <br> modeling not just <em>what</em> we see, but <em>how</em> what we see is made.
+  My current work explores modeling not just <em>what</em> we see, but <em>how</em> what we see is made.
 </p>
 
 
