@@ -9,7 +9,7 @@ medical AI researcher / engineer
 ### 🧬 About Me  
 - 🧠 Researching **medical AI** — brain tumor segmentation, pulmonary embolism detection, and physics-informed MRI simulation.
 - 🔬 Currently exploring **physics-based and biologically grounded generative methods**. 
-- 🤖 Experience in **biosignal-driven robotics** and **assistive device control**.
+- 🤖 Experience in **biosignal-driven robotics**.
 
 <p align="center">
   <img src="https://github.com/Lukehsu1999/Lukehsu1999/blob/main/This_Is_Not_a_Brain.png" width="70%" alt="This is not a Brain">
