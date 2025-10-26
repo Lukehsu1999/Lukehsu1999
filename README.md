@@ -1,7 +1,7 @@
 **Luke Hsu (To-Liang Hsu)**  
 medical AI researcher / engineer  
 
-🎓 *B.S., Columbia University*  
+🎓 *B.S. Computer Science, Columbia University*  
 🏥 *AI Center, China Medical University Hospital (CMUH), Taichung, Taiwan*  
 
 ---
@@ -64,7 +64,7 @@ medical AI researcher / engineer
 
 ## 🌍 AskBobby: Social Service AI SMS Agent  
 A social-impact project helping people in need locate **food, shelter, and health services** through SMS-powered AI.  
-Partnership with **Foodbank for NYC" and 8 other non-profits organizations
+Partnership with **Foodbank for NYC** and 8 other non-profits organizations
 Built with **Twilio**, **AWS Lambda**, and **LangChain** for real-time service discovery.  
 *The system is currently offline, but check out the video below.*
 
