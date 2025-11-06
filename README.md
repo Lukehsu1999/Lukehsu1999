@@ -1,7 +1,7 @@
 **Luke Hsu (To-Liang Hsu)**  
 medical AI researcher / engineer  
 
-🎓 *B.S. Computer Science, Columbia University*  
+🎓 *B.A. Computer Science, Columbia University*  
 🏥 *AI Center, China Medical University Hospital (CMUH), Taichung, Taiwan*  
 
 ---
