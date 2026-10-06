@@ -15,8 +15,7 @@
       <div class="container nav-inner">
         <a class="nav-name" href="#top">Luke (To-Liang) Hsu</a>
         <div class="nav-links">
-          <a href="#research">Research</a
-          ><a href="#publications">Publications</a
+          <a href="#publications">Publications</a
           ><a href="#projects">Projects</a><a href="#about">About</a>
         </div>
       </div>
@@ -26,10 +25,6 @@
       <div class="container hero-content">
         <p class="eyebrow">Computer Science · Medical AI · Robotics</p>
         <h1>Luke Hsu</h1>
-        <p class="hero-question">
-          I build computational tools for understanding—and working
-          with—biological systems.
-        </p>
         <p class="hero-description">
           MS Computer Science at Columbia University. Previously an AI research
           & development engineer at China Medical University Hospital.
@@ -41,22 +36,15 @@
           >
           <a
             class="button secondary"
-            href="https://www.linkedin.com/in/to-liang-hsu"
+            href="https://www.linkedin.com/in/tolianghsu"
             >LinkedIn</a
           >
-        </div>
-        <div class="hero-statement">
-          <span class="statement-mark">“</span>
-          <p>
-            An MRI is not the brain itself, but a representation generated
-            through physics, biology, and computation.
-          </p>
         </div>
       </div>
     </header>
 
     <main>
-      <section id="publications">
+      <section id="publications" class="alternate">
         <div class="container">
           <p class="section-number">01</p>
           <h2>Selected Works</h2>
@@ -67,19 +55,24 @@
 
           <!-- CMB -->
           <article class="publication featured-publication">
-            <div class="pub-content">
+            <!-- Full-width header -->
+            <div class="pub-header">
               <div class="pub-meta">
                 <span class="pub-year">2026</span>
                 <span class="pub-venue">arXiv</span>
               </div>
 
-              <div class="pub-body">
-                <p class="eyebrow">Cerebral Microbleeds · Synthetic Data</p>
-                <h3>
-                  Synthetic-to-Real Transfer in Cerebral Microbleed Generation
-                  and Segmentation
-                </h3>
+              <p class="eyebrow">Cerebral Microbleeds · Synthetic Data</p>
 
+              <h3>
+                Synthetic-to-Real Transfer in Cerebral Microbleed Generation and
+                Segmentation
+              </h3>
+            </div>
+
+            <!-- Two-column content begins here -->
+            <div class="pub-main">
+              <div class="pub-body">
                 <p>
                   Can models trained on synthetic pathology learn to recognize
                   real disease? We study synthetic lesion generation and
@@ -97,36 +90,39 @@
                   </a>
                 </div>
               </div>
-            </div>
 
-            <div class="pub-visual">
-              <img
-                src="assets/CMB_thumbnail.png"
-                alt="Synthetic-to-real cerebral microbleed project"
-              />
+              <div class="pub-visual">
+                <img
+                  src="assets/CMB_thumbnail.png"
+                  alt="Synthetic-to-real cerebral microbleed project"
+                />
+              </div>
             </div>
           </article>
-
           <!-- BraTS -->
           <article class="publication">
-            <div class="pub-content">
+            <!-- Full-width header -->
+            <div class="pub-header">
               <div class="pub-meta">
                 <span class="pub-year">2025</span>
                 <span class="pub-venue">MICCAI · Springer LNCS</span>
               </div>
 
+              <p class="eyebrow">Brain Tumor Segmentation · 1st Place</p>
+
+              <h3>
+                Enhancing Brain Tumor Segmentation Generalizability via
+                Pseudo-Labeling and Ratio-Adaptive Postprocessing
+              </h3>
+            </div>
+
+            <!-- Description + image -->
+            <div class="pub-main">
               <div class="pub-body">
-                <p class="eyebrow">Brain Tumor Segmentation · 1st Place</p>
-
-                <h3>
-                  Enhancing Brain Tumor Segmentation Generalizability via
-                  Pseudo-Labeling and Ratio-Adaptive Postprocessing
-                </h3>
-
                 <p>
                   A multi-model segmentation pipeline designed to generalize
-                  across tumor types, developed for the BraTS GoAT
-                  Challenge and awarded first place.
+                  across tumor types, developed for the BraTS GoAT Challenge and
+                  awarded first place.
                 </p>
 
                 <div class="pub-links">
@@ -135,7 +131,13 @@
                   >
                     Paper →
                   </a>
-                  <a href="https://github.com/Lukehsu1999/BraTS-Multimodel-docker">Project Website →</a>
+
+                  <a
+                    href="https://github.com/Lukehsu1999/BraTS-Multimodel-docker"
+                  >
+                    Project Website →
+                  </a>
+
                   <a
                     href="https://github.com/Lukehsu1999/BraTS-Multimodel-docker"
                   >
@@ -143,32 +145,36 @@
                   </a>
                 </div>
               </div>
-            </div>
 
-            <div class="pub-visual">
-              <img
-                src="assets/BraTS_thumbnail.png"
-                alt="BraTS GoAT Challenge project"
-              />
+              <div class="pub-visual">
+                <img
+                  src="assets/BraTS_thumbnail.png"
+                  alt="BraTS GoAT Challenge project"
+                />
+              </div>
             </div>
           </article>
 
           <!-- ChatEMG -->
           <article class="publication">
-            <div class="pub-content">
+            <!-- Full-width header -->
+            <div class="pub-header">
               <div class="pub-meta">
                 <span class="pub-year">2024</span>
                 <span class="pub-venue">IEEE RA-L</span>
               </div>
 
+              <p class="eyebrow">EMG · Rehabilitation Robotics</p>
+
+              <h3>
+                ChatEMG: Synthetic Data Generation for Robotic Hand Orthosis
+                Control
+              </h3>
+            </div>
+
+            <!-- Description + image -->
+            <div class="pub-main">
               <div class="pub-body">
-                <p class="eyebrow">EMG · Rehabilitation Robotics</p>
-
-                <h3>
-                  ChatEMG: Synthetic Data Generation for Robotic Hand Orthosis
-                  Control
-                </h3>
-
                 <p>
                   A language-conditioned framework for generating synthetic
                   electromyography signals for downstream control of a robotic
@@ -176,26 +182,28 @@
                 </p>
 
                 <div class="pub-links">
-                  <a href="https://arxiv.org/abs/2406.12123">Paper →</a>
-                  <a href="https://jxu.ai/chatemg/">Project Website →</a>
-                  <a href="https://github.com/jingxixu/chatemg">Code →</a>
+                  <a href="https://arxiv.org/abs/2406.12123"> Paper → </a>
+
+                  <a href="https://jxu.ai/chatemg/"> Project Website → </a>
+
+                  <a href="https://github.com/jingxixu/chatemg"> Code → </a>
                 </div>
               </div>
-            </div>
 
-            <div class="pub-visual">
-              <img
-                src="assets/ChatEMG_thumbnail.png"
-                alt="ChatEMG robotic hand orthosis"
-              />
+              <div class="pub-visual">
+                <img
+                  src="assets/ChatEMG_thumbnail.png"
+                  alt="ChatEMG robotic hand orthosis"
+                />
+              </div>
             </div>
           </article>
         </div>
       </section>
 
-      <section id="projects" class="alternate">
+      <section id="projects">
         <div class="container">
-          <p class="section-number">03</p>
+          <p class="section-number">02</p>
           <h2>Selected Projects</h2>
           <p class="section-intro">
             A few things I have enjoyed building beyond papers.
@@ -234,16 +242,15 @@
         </div>
       </section>
 
-      <section id="about">
+      <section id="about" class="alternate">
         <div class="container">
-          <p class="section-number">04</p>
+          <p class="section-number">03</p>
           <h2>About</h2>
           <div class="about-grid">
             <div class="about-copy">
               <p class="about-lead">
                 I am a computer science researcher and engineer interested in
-                how computation can help us understand biological systems—and
-                build useful tools around them.
+                software developmenet, medical AI, and robotics.
               </p>
               <p>
                 I am currently pursuing an MS in Computer Science at Columbia
@@ -254,7 +261,7 @@
               </p>
               <p>
                 Outside research, I enjoy writing, piano and double bass,
-                basketball, and following questions wherever they lead.
+                basketball.
               </p>
             </div>
             <div class="about-facts">
@@ -283,10 +290,10 @@
             problems.
           </p>
           <div class="hero-links">
-            <a class="button light" href="mailto:lukehsu1999@gmail.com">Email</a
+            <a class="button light" href="mailto:th2881@columbia.edu">Email</a
             ><a
               class="button ghost-light"
-              href="https://www.linkedin.com/in/to-liang-hsu"
+              href="https://www.linkedin.com/in/tolianghsu"
               >LinkedIn</a
             ><a class="button ghost-light" href="https://github.com/Lukehsu1999"
               >GitHub</a
