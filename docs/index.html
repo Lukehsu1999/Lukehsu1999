@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Luke Hsu — Researcher & Engineer</title>
+    <meta
+      name="description"
+      content="Luke Hsu — computer science researcher and engineer working across medical AI, robotics, and computational neuroscience."
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="site-nav">
+      <div class="container nav-inner">
+        <a class="nav-name" href="#top">Luke Hsu</a>
+        <div class="nav-links">
+          <a href="#research">Research</a
+          ><a href="#publications">Publications</a
+          ><a href="#projects">Projects</a><a href="#about">About</a>
+        </div>
+      </div>
+    </nav>
+
+    <header id="top" class="hero personal-hero">
+      <div class="container hero-content">
+        <p class="eyebrow">Computer Science · Medical AI · Robotics</p>
+        <h1>Luke Hsu</h1>
+        <p class="hero-question">
+          I build computational tools for understanding—and working
+          with—biological systems.
+        </p>
+        <p class="hero-description">
+          MS Computer Science at Columbia University. Previously an AI research
+          & development engineer at China Medical University Hospital.
+        </p>
+        <div class="hero-links">
+          <a class="button primary" href="#publications">Selected Work</a>
+          <a class="button secondary" href="https://github.com/Lukehsu1999"
+            >GitHub</a
+          >
+          <a
+            class="button secondary"
+            href="https://www.linkedin.com/in/to-liang-hsu"
+            >LinkedIn</a
+          >
+        </div>
+        <div class="hero-statement">
+          <span class="statement-mark">“</span>
+          <p>
+            An MRI is not the brain itself, but a representation generated
+            through physics, biology, and computation.
+          </p>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="publications">
+        <div class="container">
+          <p class="section-number">01</p>
+          <h2>Selected Works</h2>
+          <p class="section-intro">
+            Research across medical imaging, synthetic data, and rehabilitation
+            robotics.
+          </p>
+
+          <!-- CMB -->
+          <article class="publication featured-publication">
+            <div class="pub-content">
+              <div class="pub-meta">
+                <span class="pub-year">2026</span>
+                <span class="pub-venue">arXiv</span>
+              </div>
+
+              <div class="pub-body">
+                <p class="eyebrow">Cerebral Microbleeds · Synthetic Data</p>
+                <h3>
+                  Synthetic-to-Real Transfer in Cerebral Microbleed Generation
+                  and Segmentation
+                </h3>
+
+                <p>
+                  Can models trained on synthetic pathology learn to recognize
+                  real disease? We study synthetic lesion generation and
+                  downstream segmentation across real and synthetic training
+                  regimes.
+                </p>
+
+                <div class="pub-links">
+                  <a href="https://arxiv.org/abs/2610.00743">Paper →</a>
+                  <a href="https://lukehsu1999.github.io/synthetic-to-real-cmb-detection/">Project Website →</a>
+                  <a
+                    href="https://github.com/Lukehsu1999/synthetic-to-real-cmb-detection"
+                  >
+                    Code →
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="pub-visual">
+              <img
+                src="assets/images/CMB_thumbnail.png"
+                alt="Synthetic-to-real cerebral microbleed project"
+              />
+            </div>
+          </article>
+
+          <!-- BraTS -->
+          <article class="publication">
+            <div class="pub-content">
+              <div class="pub-meta">
+                <span class="pub-year">2025</span>
+                <span class="pub-venue">MICCAI · Springer LNCS</span>
+              </div>
+
+              <div class="pub-body">
+                <p class="eyebrow">Brain Tumor Segmentation · 1st Place</p>
+
+                <h3>
+                  Enhancing Brain Tumor Segmentation Generalizability via
+                  Pseudo-Labeling and Ratio-Adaptive Postprocessing
+                </h3>
+
+                <p>
+                  A multi-model segmentation pipeline designed to generalize
+                  across tumor types, developed for the BraTS GoAT
+                  Challenge and awarded first place.
+                </p>
+
+                <div class="pub-links">
+                  <a
+                    href="https://link.springer.com/chapter/10.1007/978-3-032-16365-3_47"
+                  >
+                    Paper →
+                  </a>
+                  <a href="https://github.com/Lukehsu1999/BraTS-Multimodel-docker">Project Website →</a>
+                  <a
+                    href="https://github.com/Lukehsu1999/BraTS-Multimodel-docker"
+                  >
+                    Code →
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="pub-visual">
+              <img
+                src="assets/images/BraTS_thumbnail.png"
+                alt="BraTS GoAT Challenge project"
+              />
+            </div>
+          </article>
+
+          <!-- ChatEMG -->
+          <article class="publication">
+            <div class="pub-content">
+              <div class="pub-meta">
+                <span class="pub-year">2024</span>
+                <span class="pub-venue">IEEE RA-L</span>
+              </div>
+
+              <div class="pub-body">
+                <p class="eyebrow">EMG · Rehabilitation Robotics</p>
+
+                <h3>
+                  ChatEMG: Synthetic Data Generation for Robotic Hand Orthosis
+                  Control
+                </h3>
+
+                <p>
+                  A language-conditioned framework for generating synthetic
+                  electromyography signals for downstream control of a robotic
+                  hand orthosis for stroke patients.
+                </p>
+
+                <div class="pub-links">
+                  <a href="https://arxiv.org/abs/2406.12123">Paper →</a>
+                  <a href="https://jxu.ai/chatemg/">Project Website →</a>
+                  <a href="https://github.com/jingxixu/chatemg">Code →</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="pub-visual">
+              <img
+                src="assets/images/ChatEMG_thumbnail.png"
+                alt="ChatEMG robotic hand orthosis"
+              />
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="projects" class="alternate">
+        <div class="container">
+          <p class="section-number">03</p>
+          <h2>Selected Projects</h2>
+          <p class="section-intro">
+            A few things I have enjoyed building beyond papers.
+          </p>
+          <div class="project-grid">
+            <article class="project-card">
+              <p class="eyebrow">Social Impact · NLP</p>
+              <h3>AskBobby</h3>
+              <p>
+                An SMS-based AI agent helping people locate food, shelter, and
+                health services, developed with community organizations in New
+                York City.
+              </p>
+              <p class="detail-link left">
+                <a href="https://www.youtube.com/watch?v=wNDq_BOnTQ8"
+                  >Watch demo →</a
+                >
+              </p>
+            </article>
+            <article class="project-card">
+              <p class="eyebrow">Medical Imaging</p>
+              <h3>Synthetic CMB Generator</h3>
+              <p>
+                A controllable pipeline for generating cerebral microbleeds and
+                inserting them into real CMB-negative SWAN MRI for segmentation
+                research.
+              </p>
+              <p class="detail-link left">
+                <a
+                  href="https://github.com/Lukehsu1999/synthetic-to-real-cmb-detection"
+                  >Explore project →</a
+                >
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="about">
+        <div class="container">
+          <p class="section-number">04</p>
+          <h2>About</h2>
+          <div class="about-grid">
+            <div class="about-copy">
+              <p class="about-lead">
+                I am a computer science researcher and engineer interested in
+                how computation can help us understand biological systems—and
+                build useful tools around them.
+              </p>
+              <p>
+                I am currently pursuing an MS in Computer Science at Columbia
+                University. Before returning to Columbia, I worked at the
+                Artificial Intelligence and Robotics Innovation Center at China
+                Medical University Hospital in Taiwan, developing medical
+                imaging systems for clinical research.
+              </p>
+              <p>
+                Outside research, I enjoy writing, piano and double bass,
+                basketball, and following questions wherever they lead.
+              </p>
+            </div>
+            <div class="about-facts">
+              <div>
+                <span>Currently</span
+                ><strong>MSCS · Columbia University</strong>
+              </div>
+              <div>
+                <span>Previously</span><strong>AI R&D · CMUH AIRIC</strong>
+              </div>
+              <div>
+                <span>Interests</span
+                ><strong>Medical AI · Robotics · Brain & Computation</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="contact-section takeaways">
+        <div class="container contact-inner">
+          <p class="section-number">05</p>
+          <h2>Let’s talk.</h2>
+          <p>
+            I’m always happy to talk about research, ideas, or interesting
+            problems.
+          </p>
+          <div class="hero-links">
+            <a class="button light" href="mailto:lukehsu1999@gmail.com">Email</a
+            ><a
+              class="button ghost-light"
+              href="https://www.linkedin.com/in/to-liang-hsu"
+              >LinkedIn</a
+            ><a class="button ghost-light" href="https://github.com/Lukehsu1999"
+              >GitHub</a
+            >
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container"><p>Luke Hsu · New York</p></div>
+    </footer>
+  </body>
+</html>
